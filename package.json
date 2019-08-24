@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "Osmar CS <osmar.costa.s@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
   "dependencies": {
     "express": "^4.17.1"
   },
